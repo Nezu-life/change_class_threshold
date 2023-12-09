@@ -12,6 +12,8 @@ For example, every morning I check the weather forecast. If it says 30% chance o
 
 We can do the same with classifiers. Instead of assigning instances to one or the another based on the 0.5 value, we can change it to pretty much any other value. For example, 0.7. This way, instances that get prediction values below 0.7 will go to one class, and only those above 0.7, go to the other.
 
+Here is a video explaining the process: https://www.youtube.com/watch?v=38IRd4sGWSg
+
 # The code in this repository
  
 This simple script will:
