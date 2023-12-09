@@ -39,6 +39,8 @@ Comments, suggestions, forks and improvements are very much welcome.
 
 Made with ❤️  by Tiago Lopes, PhD - the founder of Nezu Life Sciences.
 
+## Reference for the example blood donation dataset
 
+Yeh, I-Cheng, Yang, King-Jang, and Ting, Tao-Ming, "Knowledge discovery on RFM model  using Bernoulli sequence, "Expert Systems with Applications, 2008 (doi:10.1016/j.eswa.2008.07.018).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
